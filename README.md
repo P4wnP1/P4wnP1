@@ -1,5 +1,7 @@
 # P4wnP1
-sudo apt-get -y install git
+sudo -i
+
+apt-get -y install git
 
 cd /home/pi
 
