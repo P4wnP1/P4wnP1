@@ -13,6 +13,8 @@ chmod +x ./install.sh
 
 ./install.sh
 
-172.24.0.1
+(unplug pi and plug it back in)
 
-Pwd:MaMe82-P4wnP1
+Connect to the wifi network P4wnP1 with the password "MaMe82-P4wnP1"
+
+ssh using 172.24.0.1
