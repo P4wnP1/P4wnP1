@@ -14,3 +14,5 @@ chmod +x ./install.sh
 ./install.sh
 
 172.24.0.1
+
+Pwd:MaMe82-P4wnP1
